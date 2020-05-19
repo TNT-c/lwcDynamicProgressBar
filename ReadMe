@@ -1,0 +1,5 @@
+Dynamic Progress Indicator LWC for Lightning Community
+
+By default Salesforce does not provide a path component for the Case object in a Lightning Community.
+
+Case object metadata can be retrieved without the use of Apex.
